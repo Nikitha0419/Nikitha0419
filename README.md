@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikitha0419
 - 👀 I’m interested in coding etc
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on coding with anyone so we can learn together
 - 📫 How to reach me ...
 
